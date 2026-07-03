@@ -85,15 +85,15 @@ AI-Focused Software Developer | Backend Developer | GenAI Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousufS-09&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YousufS09&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousufS-09&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=YousufS09&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufS-09&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufS09&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ AI-Focused Software Developer | Backend Developer | GenAI Enthusiast
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/yousufS-09">
+<a href="https://github.com/YousufS09">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -117,7 +117,7 @@ AI-Focused Software Developer | Backend Developer | GenAI Enthusiast
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousufS-09&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YousufS09&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
 </p>
 
 <h3 align="center">✨ Building intelligent software for real-world impact ✨</h3>
