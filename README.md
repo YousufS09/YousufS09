@@ -1,42 +1,90 @@
 <div align="center">
 
-# Mohamed Yousuf S
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0969DA,100:8250DF&text=Mohamed%20Yousuf%20S&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Building%20useful%20software%20with%20full-stack%20engineering%20and%20AI&descAlignY=58&descSize=16&animation=fadeIn)
 
-### Software Engineer · Full-Stack Developer · Applied AI Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Full-Stack+Developer;Applied+AI+Builder;Turning+ideas+into+reliable+products;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
-I design and develop secure, end-to-end applications that combine modern web engineering with practical AI capabilities.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufmohameds)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyousufs.tech@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousufS09)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufmohameds)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyousufs.tech@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YousufS09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousufS09)
-
-![Location](https://img.shields.io/badge/Chennai-India-2F81F7?style=flat-square&logo=googlemaps&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack_%2B_AI-8A2BE2?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=YousufS09&label=Profile+views&color=2F81F7&style=flat-square)
+![Location](https://img.shields.io/badge/Chennai-India-0969DA?style=flat-square&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack_%2B_AI-8250DF?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=YousufS09&label=Profile+views&color=0969DA&style=flat-square)
 
 </div>
 
----
+## Hello, I am Mohamed
 
-## Professional profile
+I am a software engineer who enjoys building complete products - from intuitive React interfaces and secure APIs to database architecture and AI-powered experiences.
 
-I am a software engineer with hands-on experience building full-stack and AI-powered applications across frontend, backend, database, and integration layers. My work includes responsive React interfaces, REST APIs, real-time WebSocket services, secure authentication, analytics dashboards, document-processing pipelines, voice systems, and LLM/RAG-based features.
+My sweet spot is where **full-stack engineering meets applied AI**. I like transforming ambitious ideas into dependable applications that are clear to use, thoughtfully engineered, and ready to solve real problems.
 
-I enjoy turning complex requirements into reliable, user-focused products and continuously strengthening my skills through end-to-end implementation, debugging, and deployment workflows.
+```text
+Current direction  Full-stack software engineering and applied AI
+What I build       Web platforms, intelligent workflows and voice experiences
+How I work         Product-minded, curious and focused on reliable execution
+Beyond code        Smart India Hackathon 2023 Grand Finalist
+```
 
-- AI/ML Intern at **Kaaylabs** (March 2026 - June 2026)
-- B.Tech in **Artificial Intelligence and Data Science**, graduating in 2026
-- Grand Finalist at **Smart India Hackathon 2023**
-- Open to **software engineering, full-stack development, and applied AI opportunities**
+## What I bring to a project
 
-## Core expertise
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Product Engineering</h3>
+      <p>End-to-end applications built across frontend, backend, APIs, authentication, databases and analytics.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Applied AI</h3>
+      <p>Practical LLM, RAG, document intelligence and conversational AI features designed around real workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Reliable Systems</h3>
+      <p>Resilient integrations, fallback logic, protected routes and real-time communication with maintainability in mind.</p>
+    </td>
+  </tr>
+</table>
+
+## Selected builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Inventory Management System</h3>
+      <p>A secure inventory platform with customer and product workflows, business analytics, and a voice-enabled AI assistant for natural-language operations.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>MySQL</code> <code>JWT</code></p>
+      <p><strong>Standout:</strong> combines everyday inventory operations with contextual AI assistance and hands-free input.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Resume Intelligence System</h3>
+      <p>A recruiter-focused platform that turns PDF and DOCX resumes into structured, searchable candidate profiles and useful dashboard insights.</p>
+      <p><code>React</code> <code>Vite</code> <code>Express</code> <code>PostgreSQL</code> <code>Groq API</code></p>
+      <p><strong>Standout:</strong> uses a hybrid extraction pipeline with LLM-powered parsing and rule-based fallback logic.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Voice-Based AI Assistant</h3>
+      <p>A real-time conversational experience connecting live browser audio, speech recognition, LLM responses, and sentence-level speech playback through a WebSocket-powered backend.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>WebSockets</code> <code>Vosk</code> <code>Groq LLM</code> <code>Piper TTS</code></p>
+      <p><strong>Standout:</strong> implements the complete audio pipeline, including 16 kHz PCM down-sampling and synchronized transcripts.</p>
+    </td>
+  </tr>
+</table>
+
+## Technology palette
 
 <div align="center">
+
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Building the web
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -44,91 +92,53 @@ I enjoy turning complex requirements into reliable, user-focused products and co
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### Data and intelligent systems
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-8250DF?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0969DA?style=for-the-badge&logo=semanticweb&logoColor=white)
 
 </div>
 
-| Area | Skills and technologies |
-|:---|:---|
-| **Frontend** | React.js, TypeScript, JavaScript, Vite, HTML, CSS |
-| **Backend** | Node.js, Express.js, FastAPI, REST APIs, WebSockets |
-| **Data** | MySQL, PostgreSQL, MongoDB |
-| **AI and GenAI** | LLMs, RAG, Groq API, Vosk, Piper TTS |
-| **Engineering practices** | JWT authentication, protected routes, CRUD architecture, API integration, CI/CD |
+<details>
+<summary><strong>More tools and engineering practices</strong></summary>
+<br>
 
-## Featured engineering work
+`REST APIs` `WebSockets` `JWT Authentication` `Protected Routes` `CRUD Architecture` `Git` `GitHub` `CI/CD` `Groq API` `Vosk` `Piper TTS`
 
-### Inventory Management System
+</details>
 
-> A secure full-stack inventory platform enhanced with an AI-powered, voice-enabled assistant.
+## A little more about me
 
-`React` · `TypeScript` · `Node.js` · `Express.js` · `MySQL` · `JWT`
+- I recently completed an **AI/ML internship at Kaaylabs**, working across web development, databases, AI application workflows, debugging, and integration.
+- I am completing my **B.Tech in Artificial Intelligence and Data Science** at B.S. Abdur Rahman Crescent Institute of Science and Technology.
+- I learn best by building complete systems and understanding how every layer works together.
+- I am open to opportunities where I can contribute to meaningful software and grow alongside a strong engineering team.
 
-- Engineered JWT-based authentication and protected routes for secure application access.
-- Developed reusable customer and product management modules supporting complete CRUD workflows.
-- Created an analytics dashboard to monitor record totals, inventory quantity, and overall inventory value.
-- Integrated natural-language intent parsing, contextual follow-up prompts, and voice input for hands-free operations.
-
-### Resume Intelligence System
-
-> A resilient document-processing platform that converts unstructured resumes into searchable candidate intelligence.
-
-`React` · `Vite` · `Express.js` · `PostgreSQL` · `Groq API`
-
-- Built end-to-end PDF and DOCX upload, parsing, and structured candidate-profile storage workflows.
-- Designed a hybrid extraction pipeline combining document text extraction, optional LLM-powered JSON generation, and rule-based fallback logic.
-- Delivered a recruiter-focused dashboard with candidate search, detailed profile views, reusable components, and client-side analytics.
-- Prioritized parsing resilience so the workflow remains functional when AI-assisted extraction is unavailable.
-
-### Voice-Based AI Assistant
-
-> A real-time conversational system connecting browser audio, speech recognition, an LLM, and text-to-speech.
-
-`React` · `TypeScript` · `FastAPI` · `WebSockets` · `Vosk` · `Groq LLM` · `Piper TTS`
-
-- Developed a browser interface for live microphone capture, transcript rendering, response display, and status tracking.
-- Implemented a FastAPI backend integrating WebSocket speech recognition, LLM chat completion, and speech synthesis.
-- Built the complete audio pipeline, including 16 kHz PCM down-sampling and transcript synchronization.
-- Added sentence-level response playback to provide a more responsive conversational experience.
-
-## Experience and education
-
-### AI/ML Intern · Kaaylabs
-
-**March 2026 - June 2026**
-
-- Completed hands-on training across full-stack development, AI applications, databases, and deployment workflows.
-- Worked with React.js, Node.js, Express.js, Python, TypeScript, MySQL, PostgreSQL, MongoDB, LLMs, and RAG.
-- Strengthened practical skills in debugging, API integration, database connectivity, and feature implementation through mini applications and development modules.
-
-### B.Tech · Artificial Intelligence and Data Science
-
-**B.S. Abdur Rahman Crescent Institute of Science and Technology · 2022 - 2026**
-
-## Recognition
+## GitHub in motion
 
 <div align="center">
 
-### 🏆 Grand Finalist · Smart India Hackathon 2023
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YousufS09&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Mohamed Yousuf's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufS09&layout=compact&hide_border=true&theme=github_dark" alt="Mohamed Yousuf's most used languages" />
+
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=YousufS09&bg_color=0D1117&color=58A6FF&line=8250DF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
-
-## GitHub overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YousufS09&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Mohamed Yousuf's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufS09&layout=compact&hide_border=true&theme=github_dark" alt="Mohamed Yousuf's most used languages" />
 
 ---
 
-### Let’s build software that is useful, intelligent, and dependable.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufmohameds)
-[![Email](https://img.shields.io/badge/Start_a_conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyousufs.tech@gmail.com)
+### Have an idea worth building?
+
+I am always happy to connect, collaborate, and create something useful.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufmohameds)
+[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyousufs.tech@gmail.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8250DF,50:0969DA,100:0D1117&animation=fadeIn)
 
 </div>
