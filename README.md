@@ -1,140 +1,80 @@
-<h1 align="center">Hi 👋, I'm Mohamed Yousuf S</h1>
-
-<h3 align="center">AI-Focused Software Developer | Backend Developer | GenAI Enthusiast</h3>
+<h1 align="center">Mohamed Yousuf S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Backend+Developer;FastAPI+Developer;GenAI+Builder;Cybersecurity+Enthusiast" />
+  <strong>Software Engineer | Full-Stack Developer | AI Application Builder</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YousufS09"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohamed-yousuf-s-4a36b02a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mohamedyousufin2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final Year B.Tech Artificial Intelligence and Data Science Student
-- 🏫 B.S. Abdur Rahman Crescent Institute of Science and Technology, Chennai
-- 💻 Passionate about AI, Machine Learning, Backend Development and GenAI
-- 🚀 I build intelligent, secure and scalable AI-powered applications
-- 🏆 Smart India Hackathon 2023 Grand Finalist
-
----
-
-## ⚡ At a Glance
-
-<table align="center">
-  <tr>
-    <td><strong>Focus</strong><br/>AI systems, backend engineering, GenAI workflows</td>
-    <td><strong>Current Goal</strong><br/>Build production-ready products with strong UX and security</td>
-  </tr>
-  <tr>
-    <td><strong>Interested In</strong><br/>Cybersecurity, multimodal AI, automation</td>
-    <td><strong>Based In</strong><br/>Chennai, India</td>
-  </tr>
-</table>
-
----
-
-## 🚀 Currently Working On
-
-- 🤖 AI-Powered Cybersecurity Intelligence Platform
-- 💬 Toxic Comment & Bot Detection System
-- 🎙️ Multimodal Conversational AI Assistant
-- 🌐 Personal Portfolio Website using React + Vite + TailwindCSS
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  I build secure, end-to-end web applications and integrate practical AI features using React, Node.js, FastAPI, databases, LLMs, and RAG.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yousufmohameds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohamedyousufs.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YousufS09&style=flat-square&color=0A66C2" alt="Profile views" />
+</p>
+
+## About me
+
+- B.Tech Artificial Intelligence and Data Science student, graduating in 2026
+- Former AI/ML Intern at **Kaaylabs** (March-June 2026)
+- Experienced in full-stack application workflows, REST APIs, authentication, CRUD systems, analytics dashboards, and AI-integrated features
+- Interested in building reliable products at the intersection of software engineering and applied AI
+- Grand Finalist at **Smart India Hackathon 2023**
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Java, Python, JavaScript, TypeScript |
+| Frontend | React.js, Vite, HTML, CSS |
+| Backend | Node.js, Express.js, FastAPI, REST APIs, WebSockets |
+| Databases | MySQL, PostgreSQL, MongoDB |
+| AI / GenAI | LLMs, RAG, Groq API, Vosk, Piper TTS |
+| Engineering | Git, GitHub, JWT authentication, protected routes, CRUD, CI/CD |
+
+## Featured projects
+
+### Inventory Management System
+
+`React` `TypeScript` `Node.js` `Express.js` `MySQL` `JWT`
+
+- Built a full-stack inventory platform with JWT authentication and protected routes.
+- Created reusable customer and product CRUD modules with inventory analytics.
+- Added an AI assistant with natural-language intent parsing, follow-up prompts, and voice input for hands-free inventory operations.
+
+### Resume Intelligence System
+
+`React` `Vite` `Express.js` `PostgreSQL` `Groq API`
+
+- Built a platform that uploads, parses, and stores structured candidate data from PDF and DOCX resumes.
+- Designed a resilient hybrid parser combining document extraction, optional LLM-powered JSON extraction, and rule-based fallback logic.
+- Developed a searchable recruiter dashboard with candidate profiles and client-side analytics.
+
+### Voice-Based AI Assistant
+
+`React` `TypeScript` `FastAPI` `WebSockets` `Vosk` `Groq LLM` `Piper TTS`
+
+- Built a browser-based assistant with live microphone capture, transcript rendering, AI responses, and real-time status tracking.
+- Connected streaming speech recognition, LLM chat completion, and text-to-speech through a FastAPI backend.
+- Implemented the complete audio pipeline, including 16 kHz PCM down-sampling, transcript synchronization, and sentence-level playback.
+
+## Experience
+
+**AI/ML Intern - Kaaylabs**<br>
+*March 2026-June 2026*
+
+- Worked across frontend, backend, databases, API integration, debugging, and deployment workflows.
+- Built practice modules and applications using React.js, Node.js, Express.js, Python, TypeScript, SQL and NoSQL databases, LLMs, and RAG.
+- Gained hands-on experience implementing and integrating features across complete application lifecycles.
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YousufS09&show_icons=true&hide_border=true&theme=transparent" alt="Mohamed's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufS09&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <em>Open to software engineering, full-stack development, and applied AI opportunities.</em>
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🔐 AI-Powered Cybersecurity Intelligence Platform
-- GenAI-powered platform to detect phishing and social engineering threats
-- Agentic workflow for alert prioritization and incident correlation
-- React dashboard for real-time threat visualization
-
-### 🎙️ Multimodal Conversational AI Assistant
-- Supports text, voice and image inputs
-- Integrated Whisper-based speech recognition
-- Secure RAG-based AI interaction system
-
-### 💬 Toxic Comment & Bot Detection System
-- BERT-based toxic comment classifier
-- SBERT + Random Forest bot detection model
-- Real-time tweet analysis using Twitter API
-
----
-
-## 🏆 Achievements
-
-- 🏅 Grand Finalist – Smart India Hackathon 2023
-- 🤖 Machine Learning & Backend Development Intern at VDart
-- 🚀 Built AI, NLP, GenAI and Backend projects
-
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YousufS09&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=YousufS09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufS09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YousufS09"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohamed-yousuf-s-4a36b02a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mohamedyousufin2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YousufS09&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
-</p>
-
-<h3 align="center">✨ Building intelligent software for real-world impact ✨</h3>
