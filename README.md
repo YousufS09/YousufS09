@@ -20,6 +20,12 @@ I am a software engineer who enjoys building complete products - from intuitive 
 
 My sweet spot is where **full-stack engineering meets applied AI**. I like transforming ambitious ideas into dependable applications that are clear to use, thoughtfully engineered, and ready to solve real problems.
 
+<div align="center">
+
+![Animated engineering workflow](./assets/engineering-flow.svg)
+
+</div>
+
 ```text
 Current direction  Full-stack software engineering and applied AI
 What I build       Web platforms, intelligent workflows and voice experiences
@@ -113,9 +119,34 @@ Beyond code        Smart India Hackathon 2023 Grand Finalist
 ## A little more about me
 
 - I recently completed an **AI/ML internship at Kaaylabs**, working across web development, databases, AI application workflows, debugging, and integration.
-- I am completing my **B.Tech in Artificial Intelligence and Data Science** at B.S. Abdur Rahman Crescent Institute of Science and Technology.
 - I learn best by building complete systems and understanding how every layer works together.
 - I am open to opportunities where I can contribute to meaningful software and grow alongside a strong engineering team.
+
+## Now and next
+
+| Building now | Growing next |
+|:---|:---|
+| Full-stack applications with useful AI features | Production deployment and observability |
+| Resilient LLM and document-processing workflows | Scalable backend architecture |
+| Real-time voice and WebSocket experiences | Open-source and team collaboration |
+
+<details>
+<summary><strong>Explore a system architecture</strong></summary>
+<br>
+
+The voice assistant is built as a real-time pipeline in which every layer has a clear responsibility:
+
+```mermaid
+flowchart LR
+    A[React Client] -->|16 kHz PCM audio| B[FastAPI WebSocket]
+    B --> C[Vosk Speech Recognition]
+    C --> D[Groq LLM]
+    D --> E[Piper TTS]
+    E -->|Sentence audio| A
+    C -. Live transcript .-> A
+```
+
+</details>
 
 ## GitHub in motion
 
@@ -125,6 +156,14 @@ Beyond code        Smart India Hackathon 2023 Grand Finalist
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousufS09&layout=compact&hide_border=true&theme=github_dark" alt="Mohamed Yousuf's most used languages" />
 
 ![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=YousufS09&bg_color=0D1117&color=58A6FF&line=8250DF&point=FFFFFF&area=true&hide_border=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousufS09/YousufS09/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousufS09/YousufS09/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/YousufS09/YousufS09/output/github-contribution-grid-snake.svg" />
+</picture>
+
+[![Explore repositories](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousufS09?tab=repositories)
 
 </div>
 

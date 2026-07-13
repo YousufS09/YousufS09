@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Yousuf's engineering workflow</title>
+  <desc id="desc">An animated flow connecting product interface, backend services, intelligent systems, and reliable data.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#111a2b"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#8250df"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="220" rx="18" fill="url(#background)" stroke="#30363d"/>
+  <text x="450" y="34" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">FROM PRODUCT IDEA TO INTELLIGENT EXPERIENCE</text>
+  <path d="M170 116H730" stroke="#30363d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M170 116H730" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 14">
+    <animate attributeName="stroke-dashoffset" from="52" to="0" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(130 116)">
+      <circle r="42" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+      <circle r="47" fill="none" stroke="#58a6ff" opacity="0.22"><animate attributeName="r" values="43;51;43" dur="2.8s" repeatCount="indefinite"/></circle>
+      <text y="-2" fill="#f0f6fc" font-size="15" font-weight="600">PRODUCT</text><text y="19" fill="#8b949e" font-size="12">React UI</text>
+    </g>
+    <g transform="translate(345 116)">
+      <circle r="42" fill="#161b22" stroke="#a371f7" stroke-width="2"/>
+      <circle r="47" fill="none" stroke="#a371f7" opacity="0.22"><animate attributeName="r" values="43;51;43" dur="2.8s" begin=".6s" repeatCount="indefinite"/></circle>
+      <text y="-2" fill="#f0f6fc" font-size="15" font-weight="600">SERVICES</text><text y="19" fill="#8b949e" font-size="12">APIs + WS</text>
+    </g>
+    <g transform="translate(555 116)">
+      <circle r="42" fill="#161b22" stroke="#d2a8ff" stroke-width="2"/>
+      <circle r="47" fill="none" stroke="#d2a8ff" opacity="0.22"><animate attributeName="r" values="43;51;43" dur="2.8s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <text y="-2" fill="#f0f6fc" font-size="15" font-weight="600">AI</text><text y="19" fill="#8b949e" font-size="12">LLM + RAG</text>
+    </g>
+    <g transform="translate(770 116)">
+      <circle r="42" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+      <circle r="47" fill="none" stroke="#3fb950" opacity="0.22"><animate attributeName="r" values="43;51;43" dur="2.8s" begin="1.8s" repeatCount="indefinite"/></circle>
+      <text y="-2" fill="#f0f6fc" font-size="15" font-weight="600">DATA</text><text y="19" fill="#8b949e" font-size="12">SQL + NoSQL</text>
+    </g>
+  </g>
+  <circle r="6" fill="#ffffff" filter="url(#glow)">
+    <animateMotion path="M170 116H730" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="450" y="198" text-anchor="middle" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">Thoughtful interfaces. Secure services. Practical AI. Dependable data.</text>
+</svg>
