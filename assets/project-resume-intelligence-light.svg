@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="310" viewBox="0 0 440 310" role="img" aria-label="Resume Intelligence: Turns unstructured resumes into searchable, structured candidate intelligence.">
+  <defs>
+    <linearGradient id="bgri" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6f8fa"/></linearGradient>
+    <linearGradient id="glri" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+    <clipPath id="cpri"><rect x="0.5" y="0.5" width="439" height="309" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#cpri)" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">
+    <rect width="440" height="310" fill="url(#bgri)"/>
+    <rect width="440" height="4" fill="#0969da"/>
+    <rect y="0" width="120" height="4" fill="url(#glri)"><animate attributeName="x" from="-120" to="440" dur="3.5s" repeatCount="indefinite"/></rect>
+    <text x="32" y="50" font-size="20" font-weight="700" fill="#1f2328">Resume Intelligence</text>
+    <rect x="352" y="30" width="64" height="22" rx="11" fill="none" stroke="#0969da"/>
+    <text x="384.0" y="45" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="1" fill="#0969da">DOC AI</text>
+    <text x="32" y="78" font-size="13.5" fill="#59636e">Turns unstructured resumes into searchable,</text><text x="32" y="98" font-size="13.5" fill="#59636e">structured candidate intelligence.</text>
+    <path d="M136 138H168M272 138H304" stroke="#d0d7de" stroke-width="2" stroke-dasharray="4 4"/>
+      <rect x="32" y="122" width="104" height="32" rx="8" fill="#ffffff" stroke="#59636e"/><text x="84" y="143" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">PDF / DOCX</text><rect x="168" y="122" width="104" height="32" rx="8" fill="#ffffff" stroke="#0969da"/><text x="220" y="143" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">LLM + Rules</text><rect x="304" y="122" width="104" height="32" rx="8" fill="#ffffff" stroke="#1a7f37"/><text x="356" y="143" text-anchor="middle" font-size="12" font-weight="600" fill="#1f2328">Profile</text>
+      <circle r="4.5" fill="#0969da"><animateMotion path="M136 138H168" dur="1.6s" repeatCount="indefinite"/></circle>
+      <circle r="4.5" fill="#1a7f37"><animateMotion path="M272 138H304" dur="1.6s" begin=".8s" repeatCount="indefinite"/></circle>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="0.5s" fill="freeze"/><rect x="32" y="199" width="8" height="8" rx="2" fill="#0969da"/><text x="48" y="208" font-size="13" fill="#1f2328">Hybrid LLM + rule-based extraction</text></g><g opacity="0"><set attributeName="opacity" to="1" begin="0.75s" fill="freeze"/><rect x="32" y="220" width="8" height="8" rx="2" fill="#0969da"/><text x="48" y="229" font-size="13" fill="#1f2328">PDF and DOCX ingestion pipeline</text></g><g opacity="0"><set attributeName="opacity" to="1" begin="1.0s" fill="freeze"/><rect x="32" y="241" width="8" height="8" rx="2" fill="#0969da"/><text x="48" y="250" font-size="13" fill="#1f2328">Recruiter dashboard with analytics</text></g>
+    <rect x="32" y="270" width="53" height="22" rx="11" fill="#eaeef2" stroke="#d0d7de"/><text x="58.5" y="285" text-anchor="middle" font-size="11.5" fill="#0969da" font-weight="600">React</text><rect x="93" y="270" width="66" height="22" rx="11" fill="#eaeef2" stroke="#d0d7de"/><text x="126.0" y="285" text-anchor="middle" font-size="11.5" fill="#0969da" font-weight="600">Express</text><rect x="167" y="270" width="86" height="22" rx="11" fill="#eaeef2" stroke="#d0d7de"/><text x="210.0" y="285" text-anchor="middle" font-size="11.5" fill="#0969da" font-weight="600">PostgreSQL</text><rect x="261" y="270" width="79" height="22" rx="11" fill="#eaeef2" stroke="#d0d7de"/><text x="300.5" y="285" text-anchor="middle" font-size="11.5" fill="#0969da" font-weight="600">Llama 3.1</text>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="309" rx="14" fill="none" stroke="#d0d7de"/>
+</svg>
