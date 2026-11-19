@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="Experience at Kaaylabs, Chennai: AI/ML Intern from March to June 2026, Associate GenAI Engineer since July 2026. Nexus AI: AI Agents module with 5 agent templates and 2 execution workflows, real-time streaming that cut time to first output from 1-2 seconds to milliseconds, collapsible RAG citations. NexiTrip: AI suggestions panel, FastAPI itinerary and places APIs, PDF itinerary export, embeddable Shadow DOM widget.">
+<defs><linearGradient id="xbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient><linearGradient id="xac" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset=".5" stop-color="#a371f7"/><stop offset="1" stop-color="#db61a2"/></linearGradient><clipPath id="xcp"><rect x="0.5" y="0.5" width="899" height="419" rx="16"/></clipPath><clipPath id="xstream"><rect x="52" y="250" height="24" width="0"><animate attributeName="width" values="0;372;372;0" keyTimes="0;.55;.9;1" dur="4.5s" repeatCount="indefinite"/></rect></clipPath></defs>
+<g clip-path="url(#xcp)" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">
+<rect width="900" height="420" fill="url(#xbg)"/><rect width="900" height="4" fill="url(#xac)"/>
+<text x="32" y="40" font-size="12" font-weight="600" letter-spacing="2.2" fill="#8b949e">KAAYLABS  ·  CHENNAI, INDIA</text>
+<text x="32" y="70" font-size="22" font-weight="700" fill="#f0f6fc">Associate GenAI Engineer</text>
+<rect x="711" y="26" width="157" height="22" rx="11" fill="none" stroke="#3fb950"/><text x="789.5" y="41" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="1" fill="#3fb950">MAR 2026 – PRESENT</text>
+<circle cx="862" cy="62" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle><text x="850" y="66" text-anchor="end" font-size="12" fill="#8b949e">currently shipping</text>
+<text x="32" y="96" font-size="13.5" fill="#8b949e">AI/ML Intern, Mar – Jun 2026  <tspan fill="#a371f7">→</tspan>  Associate GenAI Engineer, Jul 2026 – present  ·  4+ features shipped end to end</text>
+<rect x="32" y="120" width="408" height="226" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="460" y="120" width="408" height="226" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="52" y="152" font-size="17" font-weight="700" fill="#f0f6fc">Nexus AI</text>
+<rect x="311" y="136" width="109" height="22" rx="11" fill="none" stroke="#a371f7"/><text x="365.5" y="151" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="1" fill="#a371f7">MULTI-TENANT</text>
+<text x="52" y="174" font-size="12.5" fill="#8b949e">AI chatbot platform  ·  React, TypeScript, Node.js, Python</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.3s" fill="freeze"/><text x="52" y="212" font-size="26" font-weight="700" fill="#a371f7">5</text><text x="52" y="230" font-size="11" fill="#8b949e">agent templates</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.55s" fill="freeze"/><text x="170" y="212" font-size="26" font-weight="700" fill="#a371f7">2</text><text x="170" y="230" font-size="11" fill="#8b949e">execution workflows</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.8s" fill="freeze"/><text x="288" y="212" font-size="26" font-weight="700" fill="#58a6ff">ms</text><text x="288" y="230" font-size="11" fill="#8b949e">to first output (was 1–2 s)</text></g>
+<rect x="46" y="246" width="380" height="30" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="52" y="266" font-size="12.5" fill="#f0f6fc" clip-path="url(#xstream)"><tspan fill="#58a6ff" font-weight="700">agent ›</tspan> Shortlist ready: 3 candidates match the role [1] [2]</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.2s" fill="freeze"/><rect x="52" y="295" width="8" height="8" rx="2" fill="#a371f7"/><text x="68" y="304" font-size="13" fill="#f0f6fc">Built the AI Agents module from scratch</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.45s" fill="freeze"/><rect x="52" y="317" width="8" height="8" rx="2" fill="#a371f7"/><text x="68" y="326" font-size="13" fill="#f0f6fc">Collapsible RAG source citations in streams</text></g>
+<text x="480" y="152" font-size="17" font-weight="700" fill="#f0f6fc">NexiTrip</text>
+<rect x="753" y="136" width="95" height="22" rx="11" fill="none" stroke="#58a6ff"/><text x="800.5" y="151" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="1" fill="#58a6ff">TRAVEL CRM</text>
+<text x="480" y="174" font-size="12.5" fill="#8b949e">AI trip planner  ·  React, TypeScript, Python, FastAPI</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.5s" fill="freeze"/><rect x="480" y="201" width="8" height="8" rx="2" fill="#58a6ff"/><text x="496" y="210" font-size="13" fill="#f0f6fc">AI-powered Suggestions Panel in React</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.75s" fill="freeze"/><rect x="480" y="225" width="8" height="8" rx="2" fill="#58a6ff"/><text x="496" y="234" font-size="13" fill="#f0f6fc">Itinerary and places APIs with FastAPI</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.0s" fill="freeze"/><rect x="480" y="249" width="8" height="8" rx="2" fill="#58a6ff"/><text x="496" y="258" font-size="13" fill="#f0f6fc">PDF itinerary export via @react-pdf/renderer</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.25s" fill="freeze"/><rect x="480" y="273" width="8" height="8" rx="2" fill="#58a6ff"/><text x="496" y="282" font-size="13" fill="#f0f6fc">Embeddable widget with Shadow DOM isolation</text></g>
+<path d="M490 318H838" stroke="#30363d" stroke-width="2" stroke-dasharray="4 6"/>
+<circle cx="490" cy="318" r="5" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+<circle cx="664" cy="318" r="5" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+<circle cx="838" cy="318" r="5" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+<circle cy="318" r="4" fill="#58a6ff"><animate attributeName="cx" values="490;838" dur="3.2s" repeatCount="indefinite"/></circle>
+<text x="32" y="378" font-size="11" font-weight="600" letter-spacing="1.8" fill="#8b949e">STACK IN PRODUCTION</text>
+<rect x="32" y="386" width="55" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="59.5" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#58a6ff">React</text>
+<rect x="95" y="386" width="89" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="139.5" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#58a6ff">TypeScript</text>
+<rect x="192" y="386" width="69" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="226.5" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#58a6ff">Node.js</text>
+<rect x="269" y="386" width="69" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="303.5" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#58a6ff">Express</text>
+<rect x="346" y="386" width="62" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="377.0" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#58a6ff">Python</text>
+<rect x="416" y="386" width="69" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="450.5" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#58a6ff">FastAPI</text>
+<rect x="493" y="386" width="89" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="537.5" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#58a6ff">PostgreSQL</text>
+<rect x="590" y="386" width="62" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="621.0" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#58a6ff">Prisma</text>
+<rect x="660" y="386" width="62" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="691.0" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#58a6ff">AWS S3</text>
+<rect x="730" y="386" width="89" height="22" rx="11" fill="#21262d" stroke="#30363d"/><text x="774.5" y="401" text-anchor="middle" font-size="11.5" font-weight="600" fill="#a371f7">LLMs + RAG</text>
+</g>
+<rect x="0.5" y="0.5" width="899" height="419" rx="16" fill="none" stroke="#30363d"/>
+</svg>

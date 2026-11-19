@@ -14,8 +14,13 @@
 
 <br>
 
-**I design and ship AI-powered products end to end** - from retrieval pipelines and autonomous agents<br>
-to the interfaces and APIs that put them in people's hands.
+**Associate GenAI Engineer at Kaaylabs** - shipping features end to end on a production multi-tenant AI platform.<br>
+React.js frontends, Node.js and Python backends, PostgreSQL data layers, LLM agents and real-time streaming.
+
+![Experience](https://img.shields.io/badge/Production_features-4%2B_shipped-1A7F37?style=flat-square)
+![Agents](https://img.shields.io/badge/AI_agent_templates-5_built-8250DF?style=flat-square)
+![Streaming](https://img.shields.io/badge/First_output-1--2s_%E2%86%92_ms-0969DA?style=flat-square)
+![SIH](https://img.shields.io/badge/Smart_India_Hackathon_2023-Grand_Finalist-D29922?style=flat-square)
 
 <br>
 
@@ -26,6 +31,37 @@ to the interfaces and APIs that put them in people's hands.
 </picture>
 
 </div>
+
+## Experience
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/experience.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/experience-light.svg" />
+  <img width="100%" alt="Kaaylabs, Chennai: AI/ML Intern (Mar - Jun 2026), then Associate GenAI Engineer (Jul 2026 - present), working on Nexus AI and NexiTrip" src="./assets/experience.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary><strong>What I own at Kaaylabs</strong></summary>
+<br>
+
+**Associate GenAI Engineer** · Jul 2026 - present
+
+- **Nexus AI - multi-tenant AI chatbot platform.** Built the AI Agents module from scratch: 5 agent templates and 2 execution workflows, including conversational hiring and agent configuration.
+- **Real-time streaming.** Streamed AI-generated responses to the UI, cutting time to first visible output from 1-2 seconds to milliseconds.
+- **RAG citations.** Moved source references into collapsible citations, reducing inline clutter in streamed answers.
+- **NexiTrip - AI trip planner and travel CRM.** Built the AI Suggestions Panel in React, itinerary and places APIs in FastAPI, PDF itinerary export with `@react-pdf/renderer`, and contributed to an embeddable widget isolated with Shadow DOM.
+- **Platform work.** REST APIs, PostgreSQL with Prisma ORM, AWS S3, multi-tenant authorization and third-party integrations.
+
+**AI/ML Intern** · Mar 2026 - Jun 2026
+
+- Built AI-enabled application modules with React.js, Node.js, Express.js, Python and FastAPI.
+- Wired frontends to backend services over REST and worked with MySQL.
+
+</details>
 
 ## How I build
 
@@ -56,7 +92,7 @@ to the interfaces and APIs that put them in people's hands.
   </tr>
 </table>
 
-## Featured work
+## Featured open-source work
 
 <div align="center">
 
@@ -147,17 +183,42 @@ flowchart LR
 
 </div>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Education</h4>
+      <strong>B.Tech, Artificial Intelligence and Data Science</strong><br>
+      <sub>B.S. Abdur Rahman Crescent Institute of Science and Technology, Chennai · 2022 - 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Recognition</h4>
+      <strong>Grand Finalist, Smart India Hackathon 2023</strong><br>
+      <sub>National-level hackathon run by the Government of India</sub>
+    </td>
+  </tr>
+</table>
+
 ## Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,html,css,nodejs,express,fastapi,mysql,postgres,prisma,git,github,vscode&perline=7" alt="Python, JavaScript, React, HTML, CSS, Node.js, Express, FastAPI, MySQL, PostgreSQL, Prisma, Git, GitHub, VS Code" />
-
-<br><br>
+<table>
+  <tr>
+    <td align="center" valign="top"><sub><strong>LANGUAGES</strong></sub><br><br><img src="https://skillicons.dev/icons?i=python,ts,js" alt="Python, TypeScript, JavaScript" /></td>
+    <td align="center" valign="top"><sub><strong>FRONTEND</strong></sub><br><br><img src="https://skillicons.dev/icons?i=react,html,css" alt="React, HTML, CSS" /></td>
+    <td align="center" valign="top"><sub><strong>BACKEND</strong></sub><br><br><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express, FastAPI" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><sub><strong>DATA</strong></sub><br><br><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="PostgreSQL, MySQL, MongoDB, Prisma" /></td>
+    <td align="center" valign="top"><sub><strong>CLOUD &amp; TOOLS</strong></sub><br><br><img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="AWS, Git, GitHub, VS Code" /></td>
+    <td align="center" valign="top"><sub><strong>VECTOR DB</strong></sub><br><br><img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" /></td>
+  </tr>
+</table>
 
 ![LLMs](https://img.shields.io/badge/LLMs-8250DF?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-0969DA?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-1A7F37?style=for-the-badge&logo=probot&logoColor=white)
+![Streaming](https://img.shields.io/badge/Real--time_Streaming-DB61A2?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-A371F7?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama_3.x-0467DF?style=for-the-badge&logo=meta&logoColor=white)
