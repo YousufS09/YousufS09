@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&lines=Engineering+LLM+%2B+RAG+powered+products;Designing+AI+agents+that+act%2C+not+just+chat;From+prompt+to+production%2C+end+to+end;Python+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8250DF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myportfoliorecent.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufmohameds)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyousufs.tech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousufS09)
@@ -271,6 +272,7 @@ flowchart LR
 
 Open to conversations about Generative AI, full-stack engineering and ambitious product ideas.
 
+[![View my portfolio](https://img.shields.io/badge/View_my_portfolio-8250DF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myportfoliorecent.netlify.app/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufmohameds)
 [![Email me](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedyousufs.tech@gmail.com)
 [![Explore repositories](https://img.shields.io/badge/Explore_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousufS09?tab=repositories)
